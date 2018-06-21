@@ -5,6 +5,8 @@ CLOMO サービス全般において、デバイスの管理、各種情報の�
 CLOMO PANEL は CLOMO アカウントと CLOMO アカウントの認証方式に対応したパ
 スワードにてログイン認証を通過することで利用開始できます。
 
+![panel](https://user-images.githubusercontent.com/40196698/41695360-af113b7e-7549-11e8-8fbf-46b4255d8369.png)
+
 ログイン画面には CLOMO 利用ドメイン（画像では “demo.i3-systems.com”）とアカウ
 ント、パスワードの入力欄が表示されます。
 これらのログイン情報は、アクセス URL などと合わせて、契約時に管理者宛へ通知され
